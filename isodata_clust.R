@@ -39,6 +39,13 @@
 #' @param path2saveResults Where to save results
 
 
+## Packages ##
+library(stats)
+library(parallel)
+library(rrcov)
+library(dplyr)
+##
+
 
 isodata_clustering <- function(data_ini,
                                nclust_ini = 15,
