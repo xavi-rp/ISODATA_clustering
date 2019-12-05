@@ -1,4 +1,4 @@
-# ISODATA_clutering
+# ISODATA_clustering
 ISODATA Clustering: Unsupervised classification/clustering algorithm
 
 ISODATA stands for Iterative Self-Organizing Data Analysis Techniques. 
